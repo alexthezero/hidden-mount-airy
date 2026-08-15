@@ -1,5 +1,6 @@
 name: One-time cobbler wording correction
 
+# One-time rebuild trigger
 on:
   push:
     branches: [main]
