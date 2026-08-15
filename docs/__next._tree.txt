@@ -1,2 +1,2 @@
 :HL["/hidden-mount-airy/_next/static/chunks/0vsjfzrv9v55~.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"p8yqP1k1ZQjhIUUTtCtV-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Bv85M0F1ItaqkB5lkwrK1"}

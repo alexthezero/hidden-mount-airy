@@ -131,16 +131,16 @@ const finds: Find[] = [
   {
     id: "sonker",
     number: "07",
-    eyebrow: "Food · Surry County original",
-    title: "Taste a sonker, not a cobbler",
+    eyebrow: "Food · Local dessert",
+    title: "Taste a local cobbler",
     description:
-      "Deeper and juicier than cobbler, sonker is a heritage dessert strongly associated with Surry County. There is an official trail devoted to it.",
+      "Warm fruit, a baked crust, and a scoop-worthy finish make cobbler an easy sweet stop while exploring Mount Airy.",
     tip: "Anchored Bakery is a convenient Mount Airy trail stop. Ask what fruit is in the oven; small batches can sell out.",
     address: "139 Moore Avenue",
     directions:
       "https://www.google.com/maps/search/?api=1&query=Anchored+Bakery+Mount+Airy+NC",
-    source: "https://sonkertrail.org/",
-    sourceLabel: "Official Sonker Trail",
+    source: "https://www.anchoredbakerymtairy.com/",
+    sourceLabel: "Bakery details",
     tags: ["All", "Food", "Family"],
     cost: "$",
     timing: "20–40 min",
