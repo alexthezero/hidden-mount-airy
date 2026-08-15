@@ -238,7 +238,7 @@ const dayPlan = [
   { time: "8:30", title: "Breakfast like a local", detail: "Ground steak and egg—or the classic sandwich—at the Dairy Center." },
   { time: "9:45", title: "See The Rock", detail: "Drive up to the public quarry overlook before downtown fills in." },
   { time: "11:00", title: "Go live at the Earle", detail: "Take a seat for WPAQ’s Saturday Merry-Go-Round broadcast." },
-  { time: "1:45", title: "Find the sonker", detail: "Walk to Anchored Bakery and ask which flavor came out today." },
+  { time: "1:45", title: "Find the cobbler", detail: "Walk to Anchored Bakery and ask which flavor came out today." },
   { time: "2:30", title: "Collect the walls", detail: "Follow the public art walk to the Whittling Wall and Market Street." },
   { time: "4:15", title: "Cool off by the Ararat", detail: "Walk, fish, or paddle the river corridor from Riverside Park." },
   { time: "8:00", title: "Meet the less mortal", detail: "Finish with the seasonal lantern-lit downtown ghost tour." },
